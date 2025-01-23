@@ -3,7 +3,7 @@
 * Plugin Name:       Address Autocomplete for Woocommerce Block Checkout
 * Description:       Example block scaffolded with Create Block tool.
 * Author:            Sterner Stuff, eclev91
-* Author URI:	 	 https://sternerstuff.dev
+* Author URI:        https://sternerstuff.dev
 * Requires at least: 6.1
 * Requires PHP:      7.0
 * Version:           0.1.0
